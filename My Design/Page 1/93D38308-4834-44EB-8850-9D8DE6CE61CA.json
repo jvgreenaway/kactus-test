@@ -19,7 +19,7 @@
                 "UID": 2
               }
             },
-            "Hello World",
+            "Hello James",
             {
               "$class": {
                 "UID": 25
@@ -216,11 +216,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 63,
-    "width": 252,
-    "x": 162.5,
+    "width": 256,
+    "x": 160.5,
     "y": 126
   },
-  "glyphBounds": "{{3, 14}, {247, 39}}",
+  "glyphBounds": "{{3, 14}, {251, 39}}",
   "heightIsClipped": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -228,7 +228,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Hello World",
+  "name": "Hello James",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
